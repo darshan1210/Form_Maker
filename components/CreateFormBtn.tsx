@@ -58,7 +58,7 @@ function CreateFormBtn() {
       </DialogTrigger>
       <DialogContent>
         <DialogHeader>
-          <DialogTitle>Create form</DialogTitle>
+          <DialogTitle>Create Form</DialogTitle>
           <DialogDescription>Create a new form to start collecting responses</DialogDescription>
         </DialogHeader>
         <Form {...form}>
